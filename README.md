@@ -98,5 +98,5 @@ Serving! Local: http://localhost:3000
 
 ---
 
-## 📄 Licença
-Projeto criado para fins educacionais.
+## Link do video:
+https://drive.google.com/file/d/1lcRwaURJudcuK70cGNuul24CZOC3yLcB/view?usp=sharing
